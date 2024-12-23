@@ -1,10 +1,6 @@
 <h1 align="center">ZENITSU-MD-V3</h1>
 
-<img src="
-
-https://github.com/user-attachments/assets/9cf51ca3-4204-45c0-abfd-74b13f331460
-
-" height="90" width="100%">
+<img src="![IMG-20241223-WA0010](https://github.com/user-attachments/assets/418a1a3f-c1b1-48cb-88b5-622a77c06db4)" height="90" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ZENITSU+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
