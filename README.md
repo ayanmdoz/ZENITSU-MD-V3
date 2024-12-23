@@ -1,147 +1,173 @@
----
+<h1 align="center">ZENITSU-MD-V3</h1>
 
-# 🌟 ZENITSU-MD-V3 🌟
-![![Screenshot_25671223_140022](https://github.com/user-attachments/assets/b5724fee-4144-4626-96b9-c8d4bd17d15c)
-](https://github.com/user-attachments/assets/101f8f73-3c16-4867-8cb6-cb7ff556c8d7)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/ayanmdoz">
+    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+</a>
+<hr>
 
 
 <p align="center">
-  <a href="https://github.com/AYANMDOZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD-V3+MultiDevice;Developed+by+AYANMDOZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
+
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAYANMDOZ%2FZENITSU-MD-V3&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3/fork">
+    <img src="https://img.shields.io/github/forks/Ayanmdoz/ZENITSU-MD-V3?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3/stargazers">
+    <img src="https://img.shields.io/github/stars/Ayanmdoz/ZENITSU-MD-V3?style=social">
+  </a>
 </p>
 
-## 🌟 Getting Started 🌟
+<p align="center">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/github/repo-size/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=Repo%20Size&style=plastic">
 
-To get started with ZENITSU-MD-V3, follow these steps:
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/github/license/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=License&style=plastic">
 
-### 1. 🌟 Fork This Repository 🌟
+  </a>
+  <a href="https://github.com/Ayanmdoz/VAJ">
+    <img src="https://img.shields.io/github/languages/top/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=Javascript&style=plastic">
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
-<a href='https://github.com/AYANMDOZ/ZENITSU-MD-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
-### 2. 🌟 Get Session ID via Pair Code 🌟
+  </a>
+</p>
 
-You'll need a session ID to run the bot. Click the button below to obtain your session ID:
+## 💡 FOLLOW OUR CHANAL
 
-<a href='https://web-pair-e7uu.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-Red?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href="https://whatsapp.com/channel/0029VavxVByI7BeHP65imX32"><img src="https://img.shielUM ds.io/badge/Join%20Our%%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
-## 🌟 Deployment Options 🌟
+<br>
 
-You can deploy the ZENITSU-MD-V3 bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+<div align="center">
+ 
+  <h1>👇 DEPLOY NOW 👇</h1>
+  
+</div>
 
-### 🌟 Deploy to Heroku 🌟
+<br>
 
-Deploying the bot to Heroku is simple and straightforward. Follow these steps:
+## 🎀 STEP 01 -  Fork The Repo
 
-1. **🌟Create a Heroku Account🌟:**
+<a href="https://github.com/ayanmdoz/ZENITSU-MD-V3/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK ZENITSU MD V3 REPO" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 
-   If you don't already have a Heroku account, create one by clicking the button below:
+## 🎀 STEP 02 -  Get Session
 
-   <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-Red?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+<a href="https://web-pair-e7uu.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
-2. **🌟Deploy the Bot:🌟**
+<a href="https://web-pair-e7uu.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
-   Once your Heroku account is ready, deploy the bot by clicking the button below:
+`Not come session id use a vpn and try again`
 
-   <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-Red?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+<br>
+<br>
+## 🎀 STEP 03 -  Deployment Methods
 
-### 🌟 Deploy to Termux 🌟
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
 
-You can also deploy the bot directly on your Android device using Termux. Here’s how:
 
-1. **🌟Install Termux🌟:**
+<div align="center">
 
-   If you don't have Termux installed, download it from the Google Play Store or F-Droid.
 
-   - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux)
-   - [F-Droid](https://f-droid.org/en/packages/com.termux/)
 
-2. **🌟Update and Install Required Packages🌟:**
 
-   Open Termux and run the following commands to update packages and install required dependencies:
 
-   ```bash
-   pkg update && pkg upgrade
-   pkg install git nodejs -y
-   ```
 
-3. **🌟Clone the Repository🌟:**
 
-   Clone the forked repository using the following command:
 
-   ```bash
-   git clone https://github.com/ayanmdoz/ZENITSU-MD-V3.git
-   ```
 
-4. **🌟Navigate to the Project Directory🌟:**
 
-   Change into the project directory:
 
-   ```bash
-   cd ZENITSU-MD-V3
-   ```
 
-5. **🌟Set the `SESSION_ID` in the `.env` File🌟:**
 
-   To set the `SESSION_ID`, you need to create or edit the `.env` file in the project directory.
 
-   - **🌟Create/Edit the `.env` File🌟:**
 
-     Open (or create) the `.env` file using a text editor like `nano`:
 
-     ```bash
-     nano .env
-     ```
 
-   - **🌟Add the `SESSION_ID` Variable🌟:**
 
-     Add the following line to the `.env` file:
 
-     ```bash
-     SESSION_ID='your-session-id-here'
-     ```
 
-     Replace `'your-session-id-here'` with the actual session ID you obtained.
 
-   - **🌟Save and Exit🌟:**
 
-     If using `nano`, save the changes by pressing `CTRL + X`, then `Y`, and then `Enter` to exit.
 
-6. **🌟Install Node Módules🌟:**
 
-   Install the required Node.js modules:
 
-   ```bash
-   npm install
-   ```
 
-7. **🌟Start the Bot🌟:**
 
-   Finally, start the bot with the following command:
 
-   ```bash
-   node .
-   ```
 
-   Make sure to keep Termux open to maintain the bot's operation.
 
-## 🌟 Join WhatsApp Group, Channel, and Contact the Owner 🌟
 
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-- **🌟Owner WhatsApp Number🌟:** +258876858013
-  - *Note:* Please save the owner's number in your contacts before sending a message.
 
-- **🌟WhatsApp Channel🌟:** [Join Here](https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b)
 
-- **🌟WhatsApp Group🌟:** [Join Here](https://chat.whatsapp.com/Jc9yQot5xH52MjQoREbLA5)
-- 
-- **🌟Donate🌟:** [Buy Me A Coffee](buymeacoffee.com/ZENITSUAYANSEVEN)
 
-## ⚠️ Reminder
 
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
 
----
+
+
+
+
+
+## Workflow Deploy Code 👇
+
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
