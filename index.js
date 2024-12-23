@@ -98,15 +98,15 @@ async function start() {
                     console.log(chalk.green("💙 ZENITSU-MD SESSION IS SUCCESSFULLY ")); 
 
 
-                    Matrix.sendMessage(Matrix.user.id, { text: `*┏━━━━━━━━━━━━━━
+                    Matrix.sendMessage(Matrix.user.id, { text: `┏━━━━━━━━━━━━━━
 ┃ZENITSU-MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━*
-❶ || Creator = 𖥘⚡ AYAN SEVEN MODZ ⚡𖥘
+❶ || Creator = 𖥘⚡ AYAN MODZ ⚡𖥘
 ❷ || https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b
-❸ || Owner = https://wa.me/258833406646
-❺ || Bot Repo = https://github.com/ayansevenmodz/ZENITSU-MD
+❸ || Owner = https://wa.me/258876858013
+❺ || Bot Repo = https://github.com/ayansevenmdoz/ZENITSU-MD-V3
 ❻ || YouTube = https://www.youtube.com/@Ayanseven 
 ©2024-2099 *AYAN SEVEN MODZ*   ` });
                     initialConnection = false;

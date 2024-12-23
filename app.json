@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (Zenitsu-MD)",
+  "name": "whatsapp-bot (Zenitsu-MD-V3)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/ayansevenmodz/ZENITSU-MD",
+  "repository": "https://github.com/ayansevenmdoz/ZENITSU-MD-V3",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
