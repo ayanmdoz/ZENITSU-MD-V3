@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/AYANMODZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD-V3+MultiDevice;Developed+by+AYANSEMODZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
+  <a href="https://github.com/AYANMDOZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD-V3+MultiDevice;Developed+by+AYANMDOZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
 </p>
 
 ## 🌟 Getting Started 🌟
@@ -16,7 +16,7 @@ To get started with ZENITSU-MD-V3, follow these steps:
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/AYANMODZ/ZENITSU-MD-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/AYANMDOZ/ZENITSU-MD-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. 🌟 Get Session ID via Pair Code 🌟
 
@@ -69,7 +69,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
    Clone the forked repository using the following command:
 
    ```bash
-   git clone https://github.com/ayanmodz/ZENITSU-MD-V3.git
+   git clone https://github.com/ayanmdoz/ZENITSU-MD-V3.git
    ```
 
 4. **🌟Navigate to the Project Directory🌟:**
