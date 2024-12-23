@@ -5,18 +5,18 @@
 
 
 <p align="center">
-  <a href="https://github.com/AYANSEVENMODZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD+MultiDevice;Developed+by+AYANSEVENMODZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
+  <a href="https://github.com/AYANMODZ"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Zenitsu-MD-V3+MultiDevice;Developed+by+AYANSEMODZ;Give+star+and+forks+this+Repo+🌟" alt="ZenitsuReadme"></a>
 </p>
 
 ## 🌟 Getting Started 🌟
 
-To get started with ZENITSU-MD, follow these steps:
+To get started with ZENITSU-MD-V3, follow these steps:
 
 ### 1. 🌟 Fork This Repository 🌟
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/AYANSEVENMODZ/ZENITSU-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/AYANMODZ/ZENITSU-MD-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. 🌟 Get Session ID via Pair Code 🌟
 
@@ -26,7 +26,7 @@ You'll need a session ID to run the bot. Click the button below to obtain your s
 
 ## 🌟 Deployment Options 🌟
 
-You can deploy the ZENITSU-MD bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
+You can deploy the ZENITSU-MD-V3 bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
 
 ### 🌟 Deploy to Heroku 🌟
 
@@ -69,7 +69,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
    Clone the forked repository using the following command:
 
    ```bash
-   git clone https://github.com/ayansevenmodz/ZENITSU-MD.git
+   git clone https://github.com/ayanmodz/ZENITSU-MD-V3.git
    ```
 
 4. **🌟Navigate to the Project Directory🌟:**
@@ -77,7 +77,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
    Change into the project directory:
 
    ```bash
-   cd ZENITSU-MD
+   cd ZENITSU-MD-V3
    ```
 
 5. **🌟Set the `SESSION_ID` in the `.env` File🌟:**
@@ -128,7 +128,7 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-- **🌟Owner WhatsApp Number🌟:** +258871168283
+- **🌟Owner WhatsApp Number🌟:** +258876858013
   - *Note:* Please save the owner's number in your contacts before sending a message.
 
 - **🌟WhatsApp Channel🌟:** [Join Here](https://whatsapp.com/channel/0029Var4gTu9MF8yScUZzP0b)
