@@ -1,7 +1,8 @@
 ---
 
 # 🌟 ZENITSU-MD-V3 🌟
-![Screenshot_25671006_201757](https://github.com/user-attachments/assets/101f8f73-3c16-4867-8cb6-cb7ff556c8d7)
+![![Screenshot_25671223_140022](https://github.com/user-attachments/assets/b5724fee-4144-4626-96b9-c8d4bd17d15c)
+](https://github.com/user-attachments/assets/101f8f73-3c16-4867-8cb6-cb7ff556c8d7)
 
 
 <p align="center">
