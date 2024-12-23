@@ -3,8 +3,7 @@
 <img src="![IMG-20241223-WA0010](https://github.com/user-attachments/assets/418a1a3f-c1b1-48cb-88b5-622a77c06db4)" height="90" width="100%">
 
 <p align="center">
-<a href="![IMG-20241223-WA0010](https://github.com/user-attachments/assets/57546e50-3cd2-45fc-a7ee-6442c30a845b)
-"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ZENITSU+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://files.catbox.moe/4mbanu.jpg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ZENITSU+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/ayanmdoz">
