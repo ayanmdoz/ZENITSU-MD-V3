@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/ayanmdoz">
-    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+    <img src="https://files.catbox.moe/4mbanu.jpgp"  width="700px">
 </a>
 <hr>
 
