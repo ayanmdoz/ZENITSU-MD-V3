@@ -35,18 +35,18 @@
     <img src="https://img.shields.io/github/license/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/Ayanmdoz/VAJ">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
     <img src="https://img.shields.io/github/languages/top/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Ayan%20Mdoz&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-GHOST%20™%20(TC)-purple&style=plastic">
 
   </a>
 </p>
@@ -89,7 +89,7 @@
 --------
 4.  ####  🎀 DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/ayanmdoz/ZENITSU-MD-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 5.  ####  🎀 DEPLOY IN KOYEB
