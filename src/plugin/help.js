@@ -89,9 +89,10 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
           interactiveMessage: proto.Message.InteractiveMessage.create({
             body: proto.Message.InteractiveMessage.Body.create({
               text: `╭─────────────━┈⊷
-│☪️ ʙᴏᴛ ɴᴀᴍᴇ: *💙ZENITSU-MD💙*
-│☪️ ᴠᴇʀꜱɪᴏɴ: 2.2.0
-│☪️ ᴏᴡɴᴇʀ : *AYAN SEVEN*      
+│☪️ ʙᴏᴛ ɴᴀᴍᴇ: * 🌟 ZENITSU-MD-V3 🌟*
+│☪️ ᴠᴇʀꜱɪᴏɴ: 3.0.0
+│☪️ ᴏᴡɴᴇʀ : *AYAN MODZ*
+
 │☪️ ɴᴜᴍʙᴇʀ: 258871168283
 │☪️ ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │☪️ ᴍᴏᴅᴇ: *${mode}*
@@ -99,10 +100,10 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
 ╰─────────────━┈⊷ `
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "©POWERED BY ZENITSU-MD"
+              text: "🌟 MADE BY ZENITSU-MD-V3 🌟"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
-                ...(await prepareWAMessageMedia({ image : fs.readFileSync('./src/zenitsu.jpg')}, { upload: Matrix.waUploadToServer})), 
+                ...(await prepareWAMessageMedia({ image : fs.readFileSync('./src/Menu.jpg')}, { upload: Matrix.waUploadToServer})), 
                   title: ``,
                   gifPlayback: true,
                   subtitle: "",
@@ -126,22 +127,22 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
         },
                 {
                   "name": "single_select",
-                  "buttonParamsJson": `{"title":"💙𝚻𝚫𝚸 𝐅𝚯𝚪 𝚯𝚸𝚵𝚴 𝚳𝚵𝚴𝐔💙",
+                  "buttonParamsJson": `{"title":"🌟𝚻𝚫𝚸 𝐅𝚯𝚪 𝚯𝚸𝚵𝚴 𝚳𝚵𝚴𝐔🌟",
                  "sections":
                    [{
-                    "title":"*❣️ZENITSU-MD ALLMENU❣️*",
+                    "title":"*❣️ZENITSU-MD-V3 ALLMENU❣️*",
                     "highlight_label":"❣️ALLMENU❣️",
                     "rows":[
                       {
                        "header":"",
                        "title":"*💙ALL MENU💙*",
-                       "description":"❣️ZENITSU-MD ALLMENU❣️",
+                       "description":"❣️ZENITSU-MD-V3 ALLMENU❣️",
                        "id":"View All Menu"
                       },
                       {
                         "header":"",
                         "title":"*💙DOWNLOAD MENU💙*",
-                        "description":"❣️ZENITSU-MD ALL DOWNLOAD FEATURES❣️",
+                        "description":"❣️ZENITSU-MD-V3 ALL DOWNLOAD FEATURES❣️",
                         "id":"Downloader Menu"
                       },
                       {
@@ -153,13 +154,13 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
                       {
                         "header":"",
                         "title":"*💙TOOL MENU💙*",
-                        "description":"❣️ZENITSU-MD TOOL MENU❣️",
+                        "description":"❣️ZENITSU-MD-V3 TOOL MENU❣️",
                         "id":"Tool Menu"
                       },
                       {
                         "header":"",
                         "title":"*💙MAIN MENU💙*",
-                        "description":"❣️ZENITSU-MD MAIN MENU❣️ ",
+                        "description":"❣️ZENITSU-MD-V3 MAIN MENU❣️ ",
                         "id":"Main Menu"
                       },
                      {
@@ -171,25 +172,25 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
                       {
                         "header":"",
                         "title":"*💙AI MENU💙*",
-                        "description":"❣️ZENITSU-MD SHOW ME AI MENU❣️",
+                        "description":"❣️ZENITSU-MD-V3 SHOW ME AI MENU❣️",
                         "id":"Ai Menu"
                       },
                       {
                         "header":"",
                         "title":"*💙SEARCH MENU💙*",
-                        "description":"❣️ZENITSU-MD SHOW ME SEARCH MENU ❣️ ",
+                        "description":"❣️ZENITSU-MD-V3 SHOW ME SEARCH MENU ❣️ ",
                         "id":"Search Menu"
                       },
                       {
                         "header":"",
                         "title":"*💙STALK MENU💙*",
-                        "description":"❣️ZENITSU-MD SHOW ME STALK MENU❣️",
+                        "description":"❣️ZENITSU-MD-V3 SHOW ME STALK MENU❣️",
                         "id":"Stalk Menu"
                       },
                       {
                         "header":"",
                         "title":"*💙CONVERTER MENU💙*",
-                        "description":"❣️ZENITSU-MD SHOW ME CONVERTER MENU❣️",
+                        "description":"❣️ZENITSU-MD-V3 SHOW ME CONVERTER MENU❣️",
                         "id":"Converter Menu"
                       }
                     ]}
@@ -203,8 +204,8 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -220,7 +221,7 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
       if (selectedId == "View All Menu") {
         const str = `hey ${m.pushName} ${pushwish}
 ╭─────────────━┈⊷
-│☪️ ʙᴏᴛ ɴᴀᴍᴇ: *💙ZENITSU-MD💙*
+│☪️ ʙᴏᴛ ɴᴀᴍᴇ: *🌟 ZENITSU-MD-V3 🌟*
 │☪️ ᴠᴇʀꜱɪᴏɴ: 2.2.3
 │☪️ ᴏᴡɴᴇʀ : *AYAN SEVEN*      
 │☪️ ɴᴜᴍʙᴇʀ: 258871168283
@@ -346,15 +347,15 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
             }
         };
        let { key } = await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu.jpg'), 
   caption: str, 
   contextInfo: { 
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -382,15 +383,15 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
 ┃✰ ${prefix}TIKTOK 
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu1.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -420,7 +421,7 @@ await Matrix.sendMessage(m.from, {
 ╰━━━━━━━━━━━━━━━⪼
      `
      await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu2.jpg'), 
   caption: str, 
   contextInfo: {
     mentionedJid: [m.sender], 
@@ -443,15 +444,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}INFOBOT
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu3.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -479,15 +480,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}AUTOVIEW 
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu4.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -512,15 +513,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}LYRICS
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu5.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -537,15 +538,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}GITHUBSTALK 
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu6.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -565,15 +566,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}TTS
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu7.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -594,15 +595,15 @@ await Matrix.sendMessage(m.from, {
 ┃✰ ${prefix}GEMINI
 ╰━━━━━━━━━━━━━━━⪼`
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
@@ -624,15 +625,15 @@ await Matrix.sendMessage(m.from, {
 ╰━━━━━━━━━━━━━━━⪼
      `
      await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/zenitsu.jpg'), 
+  image: fs.readFileSync('./src/Menu1.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363327467360047@newsletter',
-                  newsletterName: "ZENITSU-MD",
+                  newsletterJid: '120363383485831705@newsletter',
+                  newsletterName: "ZENITSU-MD-V3",
                   serverMessageId: 143
                 }
               }
